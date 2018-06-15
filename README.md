@@ -1,1 +1,1 @@
-# worldcup2018_2
+Tabelão que será atualizado diariamente
